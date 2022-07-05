@@ -12,8 +12,11 @@ let rajniFamily ={
         age:40
     }
 }
-console.log(rajniFamily);
-console.log(rajniFamily.name);
-console.log(rajniFamily.age);
-console.log(rajniFamily.daughters.name);
-console.log(rajniFamily.daughters.age);
+// console.log(rajniFamily);
+// console.log(rajniFamily.name);
+// console.log(rajniFamily.age);
+// console.log(rajniFamily.daughters.name);
+// console.log(rajniFamily.daughters.age);
+// console.log(typeof rajniFamily);
+// console.log(typeof names);
+console.log(rajniFamily['daughters']['name']);
