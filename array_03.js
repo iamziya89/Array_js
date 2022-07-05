@@ -13,3 +13,7 @@ let rajniFamily ={
     }
 }
 console.log(rajniFamily);
+console.log(rajniFamily.name);
+console.log(rajniFamily.age);
+console.log(rajniFamily.daughters.name);
+console.log(rajniFamily.daughters.age);
