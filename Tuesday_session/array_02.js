@@ -6,4 +6,11 @@
 
 //...........How to add element in array...........
 
-let nums=[1,2,3,4,5,6];
+let nums=[1,2,3,4,5,6,7];
+// console.log(nums);
+nums.push(nums.push('Mohd Ziya'));
+console.log(nums);
+
+
+// console.log(nums.pop());
+// console.log(nums)
