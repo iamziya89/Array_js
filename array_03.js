@@ -1,4 +1,6 @@
-let names = ['vasanth', 'madan','ziya','madan'];
+let names = ['vasanth', 'madan','ziya','madan',{
+    name:'ranji'
+},];
 
 let name='vasanth';
 let age=30;
