@@ -8,6 +8,6 @@ let num=['Mohd','Ziya','Rajesh','Prakash'];
 // num.unshift('Arbaz');
 // console.log(num);
 
-num.shift();
-num.pop();
-console.log(num)
+// num.shift();
+// num.pop();
+// console.log(num)
