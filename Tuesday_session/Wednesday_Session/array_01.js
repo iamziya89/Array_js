@@ -11,4 +11,7 @@ let names=['Vasanth','Kumar','Sangakara','Dravid'];
 // let sliceName=names.slice(1,3);
 // console.log(names,sliceName);
 
-console.log(names.slice(0,-2));
+console.log(names.slice(2,-1));
+console.log(names.slice(-4,3));
+console.log(names.slice(2));
+console.log(names.slice(-2));
