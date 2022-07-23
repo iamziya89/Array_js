@@ -28,3 +28,4 @@ nums[0]=10;
 // fname='AliShan'
 // console.log(fname);      AliShan
 
+console.log(typeof fname);
