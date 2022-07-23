@@ -43,17 +43,17 @@ let matrix=[
 
 
 
-// printing in snake method  Output like( 4 3 2 1 5 6 7 8 12 11 10 13 14 15 16)
-for(let i=0; i<matrix.length;i++){
-    if(i%2==0){
-        for(j=matrix[0].length-1;j>=0;j--){
-            console.log(matrix[i][j]);
-        }
+// // printing in snake method  Output like( 4 3 2 1 5 6 7 8 12 11 10 13 14 15 16)
+// for(let i=0; i<matrix.length;i++){
+//     if(i%2==0){
+//         for(j=matrix[0].length-1;j>=0;j--){
+//             console.log(matrix[i][j]);
+//         }
 
-    }else{
-        for(j=0;j<matrix[0].length;j++){
-            console.log(matrix[i][j]);
-        }
-    }
-}
+//     }else{
+//         for(j=0;j<matrix[0].length;j++){
+//             console.log(matrix[i][j]);
+//         }
+//     }
+// }
 
