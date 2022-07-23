@@ -65,10 +65,22 @@ let matrix=[
 // console.log(sum);
 
 //  Sum of second rows
+// let sum=0;
+// let start=1;
+// for(let i=0; i< matrix[0].length; i++)
+// {
+//         sum+=matrix[start][i];
+// }
+// console.log(sum);
+
+
+
+// Sum of diagonals
 let sum=0;
-let start=1;
-for(let i=0; i< matrix[0].length; i++)
+let start=0;
+for(let i=0; i< matrix.length; i++)
 {
         sum+=matrix[start][i];
+        start+=1;
 }
 console.log(sum);
