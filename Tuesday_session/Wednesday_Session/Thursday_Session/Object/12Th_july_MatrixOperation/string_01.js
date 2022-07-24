@@ -28,4 +28,6 @@ nums[0]=10;
 // fname='AliShan'
 // console.log(fname);      AliShan
 
-console.log(typeof fname);
+// console.log(typeof fname);    //  string
+
+// console.log( fname===lname);  //  false
