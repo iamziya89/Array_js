@@ -29,9 +29,31 @@
 // console.log(fname.toLocaleUpperCase());
 
 
-let fname='    Mohd Ziya   '
-console.log(fname)
-console.log(fname.trimStart());
-console.log(fname.trimEnd());
+// let fname='    Mohd Ziya   '
+// console.log(fname)
+// console.log(fname.trimStart());
+// console.log(fname.trimEnd());
+
+
+// let fname='VasanthKumar'
+// // fname[0]='j'
+// // console.log(fname);
+// // console.log(fname.replace('V','j'));   replace V by j
+// // console.log(fname.replaceAll('a','j'));//   replace all a   by j
+
+
+// let news='India won the world cup'
+// console.log(news.replace('India','Pakistan'));
+
+// let news='India won the world cup. India won the 2011 world cup'
+// console.log(news.replaceAll('India','Pakistan'));
+
+
+// ;let news='India won the world cup'
+// console.log(news.replaceAll('india','Pakistan'))
+
+
+let news='India will win the world cup 2022'
+console.log(news.length);
 
 
