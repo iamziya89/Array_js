@@ -20,11 +20,18 @@
 // console.log(fname[0],fname.charAt(0));
 
 
-let fname="MOHDZIYA";
-// console.log(fname.slice(4));
-// console.log(fname.substring(-5,-2))    substring don't take negative value but slice take -ve and +ve value both
-// console.log(fname.substr(0,4));
-console.log(fname.substr(1,4));
+// let fname="MOHDziYA";
+// // console.log(fname.slice(4));
+// // console.log(fname.substring(-5,-2))    substring don't take negative value but slice take -ve and +ve value both
+// // console.log(fname.substr(0,4));
+// // console.log(fname.substr(1,4));
+// console.log(fname.toLocaleLowerCase());
+// console.log(fname.toLocaleUpperCase());
 
+
+let fname='    Mohd Ziya   '
+console.log(fname)
+console.log(fname.trimStart());
+console.log(fname.trimEnd());
 
 
