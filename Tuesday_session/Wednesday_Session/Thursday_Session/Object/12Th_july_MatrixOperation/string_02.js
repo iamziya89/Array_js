@@ -54,6 +54,9 @@
 
 
 let news='India will win the world cup 2022'
-console.log(news.length);
+// console.log(news.length);
+// console.log(news.split(' ').length);
+// console.log(news.split('a'));
+console.log(news.split('win '));
 
 
