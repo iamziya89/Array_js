@@ -22,6 +22,9 @@
 
 let fname="MOHDZIYA";
 // console.log(fname.slice(4));
-console.log(fname.substring(-5,-2))
+// console.log(fname.substring(-5,-2))    substring don't take negative value but slice take -ve and +ve value both
+// console.log(fname.substr(0,4));
+console.log(fname.substr(1,4));
+
 
 
