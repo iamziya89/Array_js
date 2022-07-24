@@ -37,7 +37,8 @@
 // n2[0]=10;
 // console.log(n1,n2);   //    Output:[ 10, 2, 3 ] [ 10, 2, 3 ](ek me changes hone par dono me changes hoga)
 
-let n1=[1,2,3]
-let n2=[...n1];
-n2[0]=10;
-console.log(n1,n2);   //   OutPut : [ 1, 2, 3 ] [ 10, 2, 3 ]  
+// let n1=[1,2,3]
+// let n2=[...n1];
+// n2[0]=10;
+// console.log(n1,n2);   //   OutPut : [ 1, 2, 3 ] [ 10, 2, 3 ]  
+
